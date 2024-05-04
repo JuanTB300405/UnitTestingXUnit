@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\development\\universidad\\testing\\UnitTestingXUnit\\StringManipulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{165095A5-6920-424C-9E38-82CCFEB1FA70}|..\\StringManipulation.Tests\\StringManipulation.Tests.csproj|c:\\development\\universidad\\testing\\unittestingxunit\\stringmanipulation.tests\\stringoperations.test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B712199C-C52C-4911-AE2A-7CC4F2B131E0}|StringManipulation.csproj|c:\\development\\universidad\\testing\\unittestingxunit\\stringmanipulation\\stringoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B712199C-C52C-4911-AE2A-7CC4F2B131E0}|StringManipulation.csproj|solutionrelative:stringoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B712199C-C52C-4911-AE2A-7CC4F2B131E0}|StringManipulation.csproj|c:\\development\\universidad\\testing\\unittestingxunit\\stringmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B712199C-C52C-4911-AE2A-7CC4F2B131E0}|StringManipulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\development\\universidad\\testing\\UnitTestingXUnit\\StringManipulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\development\\universidad\\testing\\UnitTestingXUnit\\StringManipulation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAgwHsAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:14:04.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringOperations.cs",
+              "DocumentMoniker": "C:\\development\\universidad\\testing\\UnitTestingXUnit\\StringManipulation\\StringOperations.cs",
+              "RelativeDocumentMoniker": "StringOperations.cs",
+              "ToolTip": "C:\\development\\universidad\\testing\\UnitTestingXUnit\\StringManipulation\\StringOperations.cs",
+              "RelativeToolTip": "StringOperations.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAA9wGYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:59:39.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringOperations.Test.cs",
+              "DocumentMoniker": "C:\\development\\universidad\\testing\\UnitTestingXUnit\\StringManipulation.Tests\\StringOperations.Test.cs",
+              "RelativeDocumentMoniker": "..\\StringManipulation.Tests\\StringOperations.Test.cs",
+              "ToolTip": "C:\\development\\universidad\\testing\\UnitTestingXUnit\\StringManipulation.Tests\\StringOperations.Test.cs*",
+              "RelativeToolTip": "..\\StringManipulation.Tests\\StringOperations.Test.cs*",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAQwPwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:05:12.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
